@@ -6,3 +6,6 @@ Custom Fedora Kinoite image
 ```
 rpm-ostree rebase ostree-unverified-registry:ghcr.io/emblem-66/kinoite:latest
 ```
+```
+sudo bootc switch ghcr.io/emblem-66/kinoite:latest
+```
